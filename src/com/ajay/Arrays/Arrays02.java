@@ -1,2 +1,4 @@
-package com.ajay.Arrays;public class Arrays02 {
+package com.ajay.Arrays;
+
+public class Arrays02 {
 }
