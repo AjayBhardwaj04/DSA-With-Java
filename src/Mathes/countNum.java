@@ -9,7 +9,7 @@ public class countNum {
     }
 
     public static void main(String[] args) {
-        int n = 123234321;
+        int n = 12321;
         System.out.println(countNums(n));
     }
 }
