@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Mathes/countNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,8 @@
     "Application.Arrays02.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.code.executor": "Run",
+    "Application.countNum.executor": "Run",
+    "Application.maths.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
