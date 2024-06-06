@@ -13,9 +13,9 @@ return (revers == n);
     }
 
     public static void main(String[] args) {
-        int n = 7007;
+        int n = 70107;
         if (!(checkPalindrome(n) != true)) {
-            System.out.println("Yes");
+            System.out.println( n + "  Yes , This is palindrome Number ");
         }
         else {
             System.out.println("No");
