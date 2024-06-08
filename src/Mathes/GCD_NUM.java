@@ -19,7 +19,7 @@ public class GCD_NUM {
 
     public static void main(String[] args) {
         int n = 12;
-        int m = 11;
+        int m = 10;
         System.out.println(GCDNUM(n,m));
     }
 }
