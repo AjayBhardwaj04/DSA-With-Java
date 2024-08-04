@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Mathes/allDivNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathes/computPow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mathes/primeFactors2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathes/primeFactors2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ajay/Arrays/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathes/GCD_NUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathes/GCD_NUM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathes/HFC_Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathes/HFC_Num.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,43 +36,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arrays.executor": "Run",
-    "Application.Arrays02.executor": "Run",
-    "Application.GCD_NUM.executor": "Run",
-    "Application.HFC_Num.executor": "Run",
-    "Application.LCM.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PalindromeNUM.executor": "Run",
-    "Application.PrimeNum.executor": "Run",
-    "Application.TrailingZeros.executor": "Run",
-    "Application.allDivNum.executor": "Run",
-    "Application.code.executor": "Run",
-    "Application.countNum.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.maths.executor": "Run",
-    "Application.primeFactors.executor": "Run",
-    "Application.primeFactors2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/java/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCD_NUM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HFC_Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNUM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.allDivNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code.executor&quot;: &quot;Run&quot;,
+    &quot;Application.computPow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeFactors2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.allDivNum">
+}</component>
+  <component name="RunManager" selected="Application.HFC_Num">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ajay.Arrays.Arrays" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ajay.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD_NUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathes.GCD_NUM" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HFC_Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathes.HFC_Num" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +120,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="computPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathes.computPow" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HFC_Num" />
+        <item itemvalue="Application.GCD_NUM" />
+        <item itemvalue="Application.computPow" />
         <item itemvalue="Application.allDivNum" />
         <item itemvalue="Application.Arrays" />
       </list>

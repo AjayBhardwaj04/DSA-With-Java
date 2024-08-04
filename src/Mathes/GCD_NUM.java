@@ -1,8 +1,7 @@
 package Mathes;
 
 public class GCD_NUM {
-    static int GCDNUM(int n, int m)
-    {
+    static int GCDNUM(int n, int m) {
 //        First Methode to count GCD
 //        while (n != m) {
 //            if (n > m)
@@ -14,13 +13,16 @@ public class GCD_NUM {
 //        Second Methode
         if (m == 0)
             return n;
-        else return GCDNUM(m,n%m);
+        else return GCDNUM(m, n % m);
+
+
     }
 
     public static void main(String[] args) {
-        int n = 12;
-        int m = 10;
-        System.out.println(GCDNUM(n,m));
+        int n = 43;
+        int m = 91;
+
+        System.out.println(GCDNUM(n, m));
     }
 }
 
