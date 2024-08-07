@@ -1,2 +1,5 @@
-package Bit_Magic;public class leetCode {
+package Bit_Magic;
+
+public class leetCode {
+
 }
