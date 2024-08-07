@@ -17,7 +17,7 @@ public class MCQ4 {
     }
 
     public static void main(String[] args) {
-        int a = 11, b = 9;
+        int a = 10, b = 20;
         int flips = countBitsToFlip(a, b);
         System.out.println("Number of bits to be flipped: " + flips);
     }
