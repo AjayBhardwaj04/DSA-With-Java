@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/QUE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/leetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/leetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/leetCode2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bit_Magic/MCQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_Magic/MCQ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bit_Magic/leetCode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Application.computPow.executor": "Run",
     "Application.countNum.executor": "Run",
     "Application.factorial.executor": "Run",
+    "Application.leetCode.executor": "Run",
     "Application.maths.executor": "Run",
     "Application.primeFactors.executor": "Run",
     "Application.primeFactors2.executor": "Run",
@@ -71,26 +72,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.QUE1">
-    <configuration name="HFC_Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathes.HFC_Num" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mathes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.leetCode2">
     <configuration name="MCQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bit_Magic.MCQ4" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bit_Magic.*" />
+          <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +91,33 @@
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bit_Magic.*" />
+          <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bit_Magic.LeetCodes.leetCode" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetCode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bit_Magic.LeetCodes.leetCode2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,20 +130,7 @@
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bit_Magic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rendumCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bit_Magic.rendumCode" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bit_Magic.*" />
+          <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetCode2" />
+        <item itemvalue="Application.leetCode" />
         <item itemvalue="Application.QUE1" />
         <item itemvalue="Application.que2" />
         <item itemvalue="Application.MCQ4" />
-        <item itemvalue="Application.rendumCode" />
-        <item itemvalue="Application.HFC_Num" />
       </list>
     </recent_temporary>
   </component>
