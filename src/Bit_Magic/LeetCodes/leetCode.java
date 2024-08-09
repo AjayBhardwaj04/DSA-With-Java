@@ -1,5 +1,5 @@
 package Bit_Magic.LeetCodes;
-
+//Given two binary strings a and b, return their sum as a binary string
 public class leetCode {
     public static  String addBinary(String a , String b){
         // Create a StringBuilder to efficiently construct the result
