@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/QUN3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/powerTow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/powerTow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +73,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.powerTow">
-    <configuration name="QUE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bit_Magic.QUE1" />
+  <component name="RunManager" selected="Application.QUN3">
+    <configuration name="QUN3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bit_Magic.LeetCodes.QUN3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QUN3" />
         <item itemvalue="Application.powerTow" />
         <item itemvalue="Application.countSetBits" />
         <item itemvalue="Application.leetCode" />
         <item itemvalue="Application.leetCode2" />
-        <item itemvalue="Application.QUE1" />
       </list>
     </recent_temporary>
   </component>
