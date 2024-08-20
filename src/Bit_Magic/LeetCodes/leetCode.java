@@ -39,7 +39,7 @@ public class leetCode {
     }
 
     public static void main(String[] args) {
-        String a = "11";
+        String a = "121";
         String b = "1";
         System.out.println(addBinary(a,b));
     }
