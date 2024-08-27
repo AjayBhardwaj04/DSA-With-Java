@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bit_Magic/oddOccurring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/powerTow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_Magic/LeetCodes/powerTow2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,64 +34,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GCD_NUM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HFC_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MCQ4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeNUM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUE1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUN3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.allDivNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.code.executor&quot;: &quot;Run&quot;,
-    &quot;Application.computPow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countSetBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leetCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leetCode2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maths.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerTow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerTow2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeFactors2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.que2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.qun3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rendumCode.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.Arrays02.executor": "Run",
+    "Application.GCD_NUM.executor": "Run",
+    "Application.HFC_Num.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.MCQ4.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PalindromeNUM.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
+    "Application.QUE1.executor": "Run",
+    "Application.QUN3.executor": "Run",
+    "Application.TrailingZeros.executor": "Run",
+    "Application.allDivNum.executor": "Run",
+    "Application.code.executor": "Run",
+    "Application.computPow.executor": "Run",
+    "Application.countNum.executor": "Run",
+    "Application.countSetBits.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.leetCode.executor": "Run",
+    "Application.leetCode2.executor": "Run",
+    "Application.maths.executor": "Run",
+    "Application.oddOccurring.executor": "Run",
+    "Application.powerTow.executor": "Run",
+    "Application.powerTow2.executor": "Run",
+    "Application.primeFactors.executor": "Run",
+    "Application.primeFactors2.executor": "Run",
+    "Application.que2.executor": "Run",
+    "Application.qun3.executor": "Run",
+    "Application.rendumCode.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.powerTow2">
+}]]></component>
+  <component name="RunManager" selected="Application.oddOccurring">
     <configuration name="MCQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bit_Magic.MCQ4" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bit_Magic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bit_Magic.countSetBits" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +97,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Bit_Magic.LeetCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oddOccurring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bit_Magic.oddOccurring" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bit_Magic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oddOccurring" />
         <item itemvalue="Application.powerTow2" />
         <item itemvalue="Application.powerTow" />
         <item itemvalue="Application.leetCode" />
         <item itemvalue="Application.MCQ4" />
-        <item itemvalue="Application.countSetBits" />
       </list>
     </recent_temporary>
   </component>
