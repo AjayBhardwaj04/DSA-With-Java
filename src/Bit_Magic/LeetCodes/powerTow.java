@@ -12,7 +12,7 @@ public class powerTow {
     }
 
     public static void main(String[] args) {
-        int i = 30;
+        int i = 4;
         System.out.println(isPowerOfTwo(i));
     }
 }

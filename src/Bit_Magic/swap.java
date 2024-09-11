@@ -1,2 +1,4 @@
-package Bit_Magic;public class swap {
+package Bit_Magic;
+// Swap all OOD and EVEN bits.
+public class swap {
 }
