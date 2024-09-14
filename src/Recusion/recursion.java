@@ -1,19 +1,17 @@
 package Recusion;
 
 public class recursion {
-    static void res(int n) {
-        if (n == 0)
-            return;
-        res(n - 1);
-            System.out.println(n);
-            res(n - 1);
-            System.out.println(n);
-
-
-
-    }
+   static void fun(int n){
+       if (n == 0){
+           return;
+       }
+       fun(n / 2);
+       System.out.println(n % 2);
+   }
 
     public static void main(String[] args) {
-        res(3);
+        int n = 13;
+//        System.out.println(fun(n));
+        fun(n);
     }
 }
