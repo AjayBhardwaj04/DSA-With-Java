@@ -18,7 +18,7 @@ public class powerTow2 {
     }
 
     public static void main(String[] args) {
-        double num = 4.50;
+        double num = 4.0;
         System.out.println(powerOfTow(num));
 
     }
