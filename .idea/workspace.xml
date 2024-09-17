@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/priNumForRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recusion/printForNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recusion/Quiz/quz5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/Quiz/quz5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/priNumForRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/powOFNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
     "Application.priNumForRec.executor": "Run",
     "Application.primeFactors.executor": "Run",
     "Application.primeFactors2.executor": "Run",
+    "Application.printForNum.executor": "Run",
     "Application.que2.executor": "Run",
     "Application.quiz2.executor": "Run",
     "Application.quiz3.executor": "Run",
@@ -88,9 +89,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.priNumForRec">
-    <configuration name="priNumForRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.priNumForRec" />
+  <component name="RunManager" selected="Application.powOFNum">
+    <configuration name="powOFNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.powOFNum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.Quiz.quiz2" />
+    <configuration name="printForNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.printForNum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recusion.Quiz.*" />
+          <option name="PATTERN" value="Recusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.priNumForRec" />
+        <item itemvalue="Application.powOFNum" />
+        <item itemvalue="Application.printForNum" />
         <item itemvalue="Application.quz5" />
         <item itemvalue="Application.quz4" />
         <item itemvalue="Application.quiz3" />
-        <item itemvalue="Application.quiz2" />
       </list>
     </recent_temporary>
   </component>
