@@ -1,7 +1,7 @@
 package Recusion;
 
 public class powOFNum {
-    public  double priNumForRec(double x, int n) {
+    public double  priNumForRec(int x, int n) {
         return priNumForRec(x, (long) n);}
 
 
@@ -25,7 +25,7 @@ public class powOFNum {
 
 //        myClass fun = new myClass();
         powOFNum fun = new powOFNum();
-        System.out.println(fun.priNumForRec(9,4));
+        System.out.println(fun.priNumForRec(2,4));
 //        fun.priNumForRec(2.0,4);
 
 //        double x = 2.1;

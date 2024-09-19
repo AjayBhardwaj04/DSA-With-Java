@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/tailRecFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recusion/printForNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/printForNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/powOFNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/powOFNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
     "Application.leetCode.executor": "Run",
     "Application.leetCode2.executor": "Run",
     "Application.maths.executor": "Run",
+    "Application.naturalNumSum.executor": "Run",
     "Application.oddOccurring.executor": "Run",
     "Application.powOFNum.executor": "Run",
     "Application.powerTow.executor": "Run",
@@ -79,6 +79,7 @@
     "Application.recursion2.executor": "Run",
     "Application.rendumCode.executor": "Run",
     "Application.tailRecFun.executor": "Run",
+    "Application.writeBaseCase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -91,7 +92,20 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.tailRecFun">
+  <component name="RunManager" selected="Application.powOFNum">
+    <configuration name="naturalNumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.naturalNumSum" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="powOFNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.powOFNum" />
       <module name="java" />
@@ -118,32 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.Quiz.quz4" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.Quiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.Quiz.quz5" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.Quiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="tailRecFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.tailRecFun" />
       <module name="java" />
@@ -157,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="writeBaseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.writeBaseCase" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tailRecFun" />
-        <item itemvalue="Application.printForNum" />
         <item itemvalue="Application.powOFNum" />
-        <item itemvalue="Application.quz5" />
-        <item itemvalue="Application.quz4" />
+        <item itemvalue="Application.naturalNumSum" />
+        <item itemvalue="Application.printForNum" />
+        <item itemvalue="Application.writeBaseCase" />
+        <item itemvalue="Application.tailRecFun" />
       </list>
     </recent_temporary>
   </component>
