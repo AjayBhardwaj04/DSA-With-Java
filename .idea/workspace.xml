@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/sumOfDigits2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recusion/Problem/QUN4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recusion/Problem/qun3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
     "Application.PrimeNum.executor": "Run",
     "Application.QUE1.executor": "Run",
     "Application.QUN3.executor": "Run",
+    "Application.QUN4.executor": "Run",
     "Application.TrailingZeros.executor": "Run",
     "Application.allDivNum.executor": "Run",
     "Application.code.executor": "Run",
@@ -97,7 +99,20 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.sumOfDigits2">
+  <component name="RunManager" selected="Application.naturalNumSum">
+    <configuration name="QUN4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.Problem.QUN4" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="naturalNumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.naturalNumSum" />
       <module name="java" />
@@ -111,21 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.palindrome" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.palindrome2" />
+    <configuration name="printForNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.printForNum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfDigits2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.sumOfDigits2" />
+    <configuration name="tailRecFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.tailRecFun" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sumOfDigits2" />
-        <item itemvalue="Application.sumOfDigits" />
         <item itemvalue="Application.naturalNumSum" />
-        <item itemvalue="Application.palindrome2" />
-        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.tailRecFun" />
+        <item itemvalue="Application.sumOfDigits" />
+        <item itemvalue="Application.QUN4" />
+        <item itemvalue="Application.printForNum" />
       </list>
     </recent_temporary>
   </component>
