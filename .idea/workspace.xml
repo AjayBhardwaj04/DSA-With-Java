@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/Problem/QUN4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recusion/Problem/qun3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recusion/countDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/naturalNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/naturalNumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/printForNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/printForNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Application.allDivNum.executor": "Run",
     "Application.code.executor": "Run",
     "Application.computPow.executor": "Run",
+    "Application.countDigits.executor": "Run",
     "Application.countNum.executor": "Run",
     "Application.countSetBits.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -99,13 +101,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.naturalNumSum">
-    <configuration name="QUN4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.Problem.QUN4" />
+  <component name="RunManager" selected="Application.countDigits">
+    <configuration name="countDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.countDigits" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recusion.Problem.*" />
+          <option name="PATTERN" value="Recusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="naturalNumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.naturalNumSum" />
+    <configuration name="powOFNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.powOFNum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -139,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.recursion" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.sumOfDigits" />
       <module name="java" />
@@ -152,26 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tailRecFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.tailRecFun" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.naturalNumSum" />
-        <item itemvalue="Application.tailRecFun" />
-        <item itemvalue="Application.sumOfDigits" />
-        <item itemvalue="Application.QUN4" />
+        <item itemvalue="Application.countDigits" />
+        <item itemvalue="Application.powOFNum" />
         <item itemvalue="Application.printForNum" />
+        <item itemvalue="Application.recursion" />
+        <item itemvalue="Application.sumOfDigits" />
       </list>
     </recent_temporary>
   </component>

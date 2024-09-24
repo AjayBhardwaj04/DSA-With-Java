@@ -1,4 +1,5 @@
 package Recusion;
+//
 
 public class printForNum {
     static void  fun(int n){
@@ -11,7 +12,7 @@ public class printForNum {
     }
 
     public static void main(String[] args) {
-        int n =4;
+        int n =12;
         fun(n);
 //        System.out.println(fun(n));
     }
