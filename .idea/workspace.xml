@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/repoCutingProb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recusion/Problem/powerSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/repoCutingProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/repoCutingProb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     "Application.palindrome.executor": "Run",
     "Application.palindrome2.executor": "Run",
     "Application.powOFNum.executor": "Run",
+    "Application.powerSet.executor": "Run",
     "Application.powerTow.executor": "Run",
     "Application.powerTow2.executor": "Run",
     "Application.priNumForRec.executor": "Run",
@@ -100,7 +102,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.repoCutingProb">
+  <component name="RunManager" selected="Application.powerSet">
     <configuration name="countDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.countDigits" />
       <module name="java" />
@@ -127,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printForNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.printForNum" />
+    <configuration name="powerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.Problem.powerSet" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recusion.*" />
+          <option name="PATTERN" value="Recusion.Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.recursion" />
+    <configuration name="printForNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.printForNum" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.powerSet" />
         <item itemvalue="Application.repoCutingProb" />
         <item itemvalue="Application.countDigits" />
         <item itemvalue="Application.powOFNum" />
         <item itemvalue="Application.printForNum" />
-        <item itemvalue="Application.recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +217,15 @@
           <url>file://$PROJECT_DIR$/src/com/ajay/loop/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recusion/repoCutingProb.java</url>
+          <line>6</line>
+          <properties class="Recusion.repoCutingProb" method="repoProblem">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
