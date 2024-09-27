@@ -12,7 +12,7 @@ package Recusion;
 public class towerOfHanoi {
     static void towerHanoi(int n, char a, char b, char c) {
         if (n == 0) {
-            System.out.println("Move 1 from to " + a + " to" + c);
+            System.out.println("Move 1 from to " + a + " to" + c); // Base Case
             return;
         }
         towerHanoi(n - 1, a, c, b);
@@ -26,5 +26,5 @@ public class towerOfHanoi {
 //        System.out.println(n,'a','b','c');
 
     }
-    // f(n) = 2^n-1;
+    // f(n) = 2^n-1 ;
 }
