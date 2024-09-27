@@ -9,7 +9,7 @@ public class qun3 {
     }
 
     public static void main(String[] args) {
-        int n = 20;
+        int n = 2;
         System.out.println(isFibonacci(n));
     }
 }
