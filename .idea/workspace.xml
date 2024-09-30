@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recusion/ConstructTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recusion/Quiz/quiz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/Quiz/quiz2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recusion/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/Problem/powerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/Problem/powerSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/subsetSumProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/subsetSumProb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recusion/towerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/towerOfHanoi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,35 +107,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.josephusProb">
+  <component name="RunManager" selected="Application.subsetSumProb">
     <configuration name="ConstructTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recusion.ConstructTriangle" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="josephusProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.josephusProb" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.palindrome" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -160,12 +134,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.Quiz.quiz2" />
+    <configuration name="powerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.Problem.powerSet" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recusion.Quiz.*" />
+          <option name="PATTERN" value="Recusion.Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subsetSumProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.subsetSumProb" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="towerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recusion.towerOfHanoi" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.josephusProb" />
-        <item itemvalue="Application.ConstructTriangle" />
-        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.subsetSumProb" />
+        <item itemvalue="Application.towerOfHanoi" />
+        <item itemvalue="Application.powerSet" />
         <item itemvalue="Application.powOFNum" />
-        <item itemvalue="Application.quiz2" />
+        <item itemvalue="Application.ConstructTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +222,11 @@
           <url>file://$PROJECT_DIR$/src/com/ajay/loop/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recusion/ConstructTriangle.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Recusion/repoCutingProb.java</url>
