@@ -12,8 +12,8 @@ package Recusion;
 public class towerOfHanoi {
     static void towerHanoi(int n, char a, char b, char c) {
         if (n == 0) {
-            System.out.println("Move 1 from to " + a + " to" + c); // Base Case
-            return;
+//            System.out.println("Move 1 from to " + a + " to" + c); // Base Case
+            return  ;
         }
         towerHanoi(n - 1, a, c, b);
         System.out.println("Move" + n + " from " + a + " to" + c);
@@ -21,7 +21,7 @@ public class towerOfHanoi {
     }
 
     public static void main(String[] args) {
-        int n = 3;
+        int n = 2;
         towerHanoi(n, 'a', 'b', 'c');
 //        System.out.println(n,'a','b','c');
 
