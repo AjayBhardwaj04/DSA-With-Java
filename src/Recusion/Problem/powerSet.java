@@ -13,7 +13,7 @@ public class powerSet {
     }
 
     public static void main(String[] args) {
-        String srt = "abc";
+        String srt = "abcd";
         int index = 0;
         String curr = " ";
 //        System.out.println(powerSetRecursion(srt,index,));
