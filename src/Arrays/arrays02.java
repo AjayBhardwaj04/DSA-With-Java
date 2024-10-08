@@ -8,7 +8,7 @@ public class arrays02 {
             throws IOException
     {
         // size of ArrayList
-        int n = 5;
+        int n = 5-1+8;
 
         // declaring ArrayList with initial size n
         ArrayList<Integer> arrli = new ArrayList<Integer>(n);
@@ -21,7 +21,7 @@ public class arrays02 {
         System.out.println(arrli);
 
         // Remove element at index 3
-        arrli.remove(3);
+        arrli.remove(2);
 
         // Displaying ArrayList after deletion
         System.out.println(arrli);
