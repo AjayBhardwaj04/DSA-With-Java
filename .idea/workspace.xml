@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/operations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/arrays02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     &quot;Application.maths.executor&quot;: &quot;Run&quot;,
     &quot;Application.naturalNumSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.oddOccurring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operations.executor&quot;: &quot;Run&quot;,
     &quot;Application.palidrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.palindrome2.executor&quot;: &quot;Run&quot;,
@@ -107,7 +108,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrays02">
+  <component name="RunManager" selected="Application.operations">
     <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrays" />
       <module name="java" />
@@ -175,8 +176,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays02" />
         <item itemvalue="Application.operations" />
+        <item itemvalue="Application.arrays02" />
         <item itemvalue="Application.arrays" />
         <item itemvalue="Application.subsetSumProb" />
         <item itemvalue="Application.towerOfHanoi" />
