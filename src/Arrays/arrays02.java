@@ -21,7 +21,7 @@ public class arrays02 {
         System.out.println(arrli);
 
         // Remove element at index 3
-        arrli.add(90);
+        arrli.remove(3);
 
         // Displaying ArrayList after deletion
         System.out.println(arrli);
