@@ -18,7 +18,7 @@ public class poi {
     }
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 34, 45, 56, 7, 5};
+        int arr[] = {1, 2,3,4,5,6};
         int x = 3;
         int n = arr.length; // Get the size of the array
         int newSize = deleteArr(arr, n, x); // Call the function to delete x
