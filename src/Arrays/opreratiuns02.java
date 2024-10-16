@@ -19,8 +19,8 @@ return -1;
 }
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 34, 45, 56, 7, 5};
-        int x = 2;
+        int arr[] = {1, 2, 3,4,5,6};
+        int x = 3;
         int n = arr.length; // Get the size of the array
         int newSize = deleteArr(arr, n, x); // Call the function to delete x
         if (newSize != n) { // If the size changed, print the modified array
