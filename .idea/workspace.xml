@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/largestElmIArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/opreratiuns02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/opreratiuns02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recusion/writeBaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/writeBaseCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,80 +39,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GCD_NUM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HFC_Num.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MCQ4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeNUM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUE1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUN3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUN4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.allDivNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrays02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.code.executor&quot;: &quot;Run&quot;,
-    &quot;Application.computPow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countSetBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.josephusProb.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leetCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leetCode2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maths.executor&quot;: &quot;Run&quot;,
-    &quot;Application.naturalNumSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.oddOccurring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.opreratiuns02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palidrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindrome2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.poi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powOFNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerTow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powerTow2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priNumForRec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeFactors2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printForNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.que2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quiz2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quiz3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.qun3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quz4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.quz5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.recursion2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rendumCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.repoCutingProb.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subsetSumProb.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sumOfDigits2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tailRecFun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.towerOfHanoi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.writeBaseCase.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.Arrays02.executor": "Run",
+    "Application.ConstructTriangle.executor": "Run",
+    "Application.GCD_NUM.executor": "Run",
+    "Application.HFC_Num.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.MCQ4.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PalindromeNUM.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
+    "Application.QUE1.executor": "Run",
+    "Application.QUN3.executor": "Run",
+    "Application.QUN4.executor": "Run",
+    "Application.TrailingZeros.executor": "Run",
+    "Application.allDivNum.executor": "Run",
+    "Application.arrays.executor": "Run",
+    "Application.arrays02.executor": "Run",
+    "Application.code.executor": "Run",
+    "Application.computPow.executor": "Run",
+    "Application.countDigits.executor": "Run",
+    "Application.countNum.executor": "Run",
+    "Application.countSetBits.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.josephusProb.executor": "Run",
+    "Application.largestElmIArr.executor": "Run",
+    "Application.leetCode.executor": "Run",
+    "Application.leetCode2.executor": "Run",
+    "Application.maths.executor": "Run",
+    "Application.naturalNumSum.executor": "Run",
+    "Application.oddOccurring.executor": "Run",
+    "Application.operations.executor": "Run",
+    "Application.opreratiuns02.executor": "Run",
+    "Application.palidrome.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.palindrome2.executor": "Run",
+    "Application.poi.executor": "Run",
+    "Application.powOFNum.executor": "Run",
+    "Application.powerSet.executor": "Run",
+    "Application.powerTow.executor": "Run",
+    "Application.powerTow2.executor": "Run",
+    "Application.priNumForRec.executor": "Run",
+    "Application.primeFactors.executor": "Run",
+    "Application.primeFactors2.executor": "Run",
+    "Application.printForNum.executor": "Run",
+    "Application.que2.executor": "Run",
+    "Application.quiz2.executor": "Run",
+    "Application.quiz3.executor": "Run",
+    "Application.qun3.executor": "Run",
+    "Application.quz4.executor": "Run",
+    "Application.quz5.executor": "Run",
+    "Application.recursion.executor": "Run",
+    "Application.recursion2.executor": "Run",
+    "Application.rendumCode.executor": "Run",
+    "Application.repoCutingProb.executor": "Run",
+    "Application.subsetSumProb.executor": "Run",
+    "Application.sumOfDigits.executor": "Run",
+    "Application.sumOfDigits2.executor": "Run",
+    "Application.tailRecFun.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
+    "Application.writeBaseCase.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.writeBaseCase">
+}]]></component>
+  <component name="RunManager" selected="Application.largestElmIArr">
     <configuration name="arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrays02" />
       <module name="java" />
@@ -124,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.operations" />
+    <configuration name="largestElmIArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.largestElmIArr" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.writeBaseCase" />
-        <item itemvalue="Application.poi" />
+        <item itemvalue="Application.largestElmIArr" />
         <item itemvalue="Application.opreratiuns02" />
+        <item itemvalue="Application.poi" />
+        <item itemvalue="Application.writeBaseCase" />
         <item itemvalue="Application.arrays02" />
-        <item itemvalue="Application.operations" />
       </list>
     </recent_temporary>
   </component>
