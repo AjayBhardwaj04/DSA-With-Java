@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/largestElmIArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/largestElemInArr02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/opreratiuns02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/opreratiuns02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recusion/writeBaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recusion/writeBaseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/largestElmIArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/largestElmInArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     "Application.countSetBits.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.josephusProb.executor": "Run",
+    "Application.largestElemInArr02.executor": "Run",
     "Application.largestElmIArr.executor": "Run",
     "Application.leetCode.executor": "Run",
     "Application.leetCode2.executor": "Run",
@@ -113,9 +113,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.largestElmIArr">
-    <configuration name="arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays02" />
+  <component name="RunManager" selected="Application.largestElemInArr02">
+    <configuration name="largestElemInArr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.largestElemInArr02" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestElmIArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.largestElmIArr" />
+    <configuration name="largestElmInArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.largestElmInArr" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.largestElmIArr" />
+        <item itemvalue="Application.largestElemInArr02" />
+        <item itemvalue="Application.largestElmInArr" />
         <item itemvalue="Application.opreratiuns02" />
         <item itemvalue="Application.poi" />
         <item itemvalue="Application.writeBaseCase" />
-        <item itemvalue="Application.arrays02" />
       </list>
     </recent_temporary>
   </component>
