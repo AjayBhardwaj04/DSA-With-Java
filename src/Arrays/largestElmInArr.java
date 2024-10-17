@@ -1,6 +1,6 @@
 package Arrays;
 
-public class largestElmIArr {
+public class largestElmInArr {
     static int getLargestNum(int arr[]) {
         int n = arr.length;
         for (int i = 0; i < n; i++) {//checking all element in Array 
@@ -14,7 +14,9 @@ public class largestElmIArr {
             }
             if (flag == true) {
                 return arr[i];
+
             }
+
 
         }
         return -1;
