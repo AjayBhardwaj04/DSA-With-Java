@@ -5,7 +5,7 @@ import java.util.*;
 
 public class arrays02 {
     public static void main(String[] args)
-            throws IOException
+            //throws IOException
     {
         // size of ArrayList
         int n = 6;
@@ -21,7 +21,7 @@ public class arrays02 {
         System.out.println(arrli);
 
         // Remove element at index 3
-        arrli.remove(3);
+        arrli.remove(n-1);
 
         // Displaying ArrayList after deletion
         System.out.println(arrli);

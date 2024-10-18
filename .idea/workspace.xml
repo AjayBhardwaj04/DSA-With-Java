@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/largestElemInArr02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/arrInsertAtIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/largestElmIArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/largestElmInArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/arrays02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Application.QUN4.executor": "Run",
     "Application.TrailingZeros.executor": "Run",
     "Application.allDivNum.executor": "Run",
+    "Application.arrInsertAtIndex.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.arrays02.executor": "Run",
     "Application.code.executor": "Run",
@@ -113,7 +114,33 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.largestElemInArr02">
+  <component name="RunManager" selected="Application.arrInsertAtIndex">
+    <configuration name="arrInsertAtIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrInsertAtIndex" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays02" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="largestElemInArr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.largestElemInArr02" />
       <module name="java" />
@@ -153,39 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="poi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.poi" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="writeBaseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recusion.writeBaseCase" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recusion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrInsertAtIndex" />
+        <item itemvalue="Application.arrays02" />
         <item itemvalue="Application.largestElemInArr02" />
         <item itemvalue="Application.largestElmInArr" />
         <item itemvalue="Application.opreratiuns02" />
-        <item itemvalue="Application.poi" />
-        <item itemvalue="Application.writeBaseCase" />
       </list>
     </recent_temporary>
   </component>
