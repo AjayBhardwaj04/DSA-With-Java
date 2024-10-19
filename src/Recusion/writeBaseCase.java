@@ -1,9 +1,9 @@
 package Recusion;
 
 public class writeBaseCase {
-    public static int writeCase(int n){
+     static int writeCase(int n){
         if (n == 0 ){
-            return 1 ;
+            return 1  ;
         }
 //        if (n == 1){
 //            return 0;
