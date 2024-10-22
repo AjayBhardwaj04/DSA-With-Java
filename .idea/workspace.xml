@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84df911d-b3c4-4960-80a2-e38de6013777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/arrayShorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/arrayShorted02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/secondLargestEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/secondLargestEle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,8 @@
     "Application.TrailingZeros.executor": "Run",
     "Application.allDivNum.executor": "Run",
     "Application.arrInsertAtIndex.executor": "Run",
+    "Application.arrayShorted.executor": "Run",
+    "Application.arrayShorted02.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.arrays02.executor": "Run",
     "Application.code.executor": "Run",
@@ -114,7 +117,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.secondLargestEle">
+  <component name="RunManager" selected="Application.arrayShorted02">
     <configuration name="arrInsertAtIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrInsertAtIndex" />
       <module name="java" />
@@ -128,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays02" />
+    <configuration name="arrayShorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrayShorted" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestElemInArr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.largestElemInArr02" />
+    <configuration name="arrayShorted02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrayShorted02" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayShorted02" />
+        <item itemvalue="Application.arrayShorted" />
         <item itemvalue="Application.secondLargestEle" />
         <item itemvalue="Application.writeBaseCase" />
         <item itemvalue="Application.arrInsertAtIndex" />
-        <item itemvalue="Application.arrays02" />
-        <item itemvalue="Application.largestElemInArr02" />
       </list>
     </recent_temporary>
   </component>
